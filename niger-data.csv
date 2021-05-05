@@ -1,4 +1,4 @@
-﻿country,year ,niger_rate ,world_rate,mean_schooling,,educational_level,1990-1999,2000-2009,2010-2013
+﻿country,year,niger_rate,world_rate,mean_schooling,,educational_level,1990-1999,2000-2009,2010-2013
 Niger,1950,422.9,224.45,0.31,,No Education,123.3,108.5,55.8
 Niger,1955,404.08,203.49,0.34,,1-6 years,85.7,97.1,50.3
 Niger,1960,384.28,307.11,0.39,,> 7 years,46.2,50.6,33.8
