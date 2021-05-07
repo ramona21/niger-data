@@ -1,4 +1,4 @@
-﻿country ,year ,niger_rate,world_rate,,year2,niger_schooling,world_schooling,,educational_level,1990-1999,2000-2009,2010-2013,,,,,,,,,,
+﻿country,year,niger_rate,world_rate,,year2,niger_schooling,world_schooling,,educational_level,1990-1999,2000-2009,2010-2013,,,,,,,,,,
 Niger,1990,296.83,87.84,,1990,0.7,5.8,,no_education,123.3,108.5,55.8,,,,,,,,,,
 ,1995,271.86,80.88,,1991,0.7,5.9,,1to6 years,85.7,97.1,50.3,,,,,,,,,,
 ,2000,229.05,73.48,,1992,0.8,6.1,,7years ,46.2,50.6,33.8,,,,,,,,,,
